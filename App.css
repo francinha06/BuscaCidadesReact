@@ -4,6 +4,7 @@ body {
 
 .titulo{
     text-align: center;
+    z-index: 5;
 } 
 
 .background-image {
